@@ -95,7 +95,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add it soon
+> Not available for now
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,9 +159,10 @@ github pages
 
 👤 **Author**
 
-- GitHub: [@zohra-neda](https://github.com/zohra-neda)
-- Twitter: [@zohra_neda](https://twitter.com/zohra_neda)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zohra-neda-3716b720b/)
+
+- GitHub: [Abenezer-Addisu](https://github.com/abenezer-addisu)
+- LinkedIn: [Abenezer-Addisu](https://www.linkedin.com/in/abenezer-addisu)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
